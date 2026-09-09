@@ -46,6 +46,7 @@ skills.lock
 
 # Scratch / temp files
 tmp_*
+/tmp/
 *.tmp
 .*-tmp.md
 .*-draft.md

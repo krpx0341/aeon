@@ -1,0 +1,16 @@
+{
+  "skill": "digest",
+  "last_analyzed": "2026-09-09T15:33:13Z",
+  "quality_score": 3,
+  "assessment": "Acceptable digest with substantive, time-sensitive content and sourced claims, but extraordinary specifics (Navier-Stokes solve) and other items are difficult to independently verify without checking source URLs.",
+  "flags": [],
+  "avg_score": 3,
+  "history": [
+    {
+      "date": "2026-09-09",
+      "score": 3,
+      "ts": "2026-09-09T15:33:13Z",
+      "harness": "claude"
+    }
+  ]
+}

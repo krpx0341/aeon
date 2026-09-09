@@ -11,6 +11,7 @@
 ## Recent Digests
 | Date | Type | Key Topics |
 |------|------|------------|
+| 2026-09-09 | web | DeepSeek V4.1 Flash, Qualcomm-Amazon chip deal, OpenAI Navier-Stokes dispute |
 
 ## Skills Built
 | Skill | Date | Notes |
